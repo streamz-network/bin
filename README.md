@@ -1,0 +1,2 @@
+# bin
+Any binary files
